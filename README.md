@@ -1,7 +1,3 @@
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrakenDevCL&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
-
 # 💫 About Me:
 Soy un desarrollador de software apasionado por crear soluciones eficientes y escalables. Me motiva transformar ideas en aplicaciones reales, aplicando buenas prácticas, código limpio y enfoque en la experiencia del usuario. Disfruto aprender nuevas tecnologías, optimizar procesos y colaborar en proyectos que generen impacto. 🚀
 
@@ -23,3 +19,7 @@ Soy un desarrollador de software apasionado por crear soluciones eficientes y es
 [![](https://visitcount.itsvg.in/api?id=KrakenDevCL&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrakenDevCL&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
