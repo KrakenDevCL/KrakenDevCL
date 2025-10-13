@@ -1,3 +1,9 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg"/>
+  <br/>
+</div>
+
 # 💫 About Me:
 Soy un desarrollador de software apasionado por crear soluciones eficientes y escalables. Me motiva transformar ideas en aplicaciones reales, aplicando buenas prácticas, código limpio y enfoque en la experiencia del usuario. Disfruto aprender nuevas tecnologías, optimizar procesos y colaborar en proyectos que generen impacto. 🚀
 
